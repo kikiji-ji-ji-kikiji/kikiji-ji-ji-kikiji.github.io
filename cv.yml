@@ -1,0 +1,152 @@
+cv:
+  name: Keerti Yadav
+  label: Ph.D. Researcher, Urban Geography
+  email: Yadavkeerti1199@gmail.com
+  location: South Korea
+  image: ""
+  summary: Ph.D. researcher in Urban Geography at Kongju National University, studying the heterogeneous regional effects of High-Speed Rail across South Korea using spatial and geospatial data methods.
+
+  social_networks:
+    - network: LinkedIn
+      username: yadavkeerti
+    - network: GitHub
+      username: your-github-username
+
+  address:
+    street: ""
+    city: ""
+    region: ""
+    postalCode: ""
+    countryCode: KR
+
+  sections:
+    Education:
+      - institution: Kongju National University
+        location: South Korea
+        url: ""
+        area: Urban Geography
+        studyType: PhD
+        start_date: 2022
+        end_date: Present
+        score: ""
+        courses: "Global Korea Scholarship (GKS) Awardee — full 4-year doctoral funding"
+        highlights:
+          - "Thesis: Heterogeneous Regional Effects of High-Speed Rail in South Korea — A City-Level Staggered Difference-in-Differences Analysis (2008–2020)"
+
+      - institution: Busan University of Foreign Studies
+        location: South Korea
+        area: Korean Language Training
+        studyType: Language Program
+        start_date: 2021
+        end_date: 2022
+
+      - institution: Jawaharlal Nehru University
+        location: India
+        area: Korean Studies
+        studyType: M.A.
+        start_date: 2019
+        end_date: 2021
+        highlights:
+          - Best Researcher 2021
+
+      - institution: Jawaharlal Nehru University
+        location: India
+        area: Korean Studies
+        studyType: B.A. (Hons.)
+        start_date: 2016
+        end_date: 2019
+
+    Experience:
+      - company: Kongju National University
+        position: Ph.D. Researcher, Urban Geography & Transport
+        location: South Korea
+        start_date: 2022
+        end_date: Present
+        summary: Multi-city geospatial analysis of High-Speed Rail impacts on regional development across Korean cities.
+        highlights:
+          - Build multi-city spatial models in R and ArcGIS to measure HSR's impact on regional development
+          - Validate and QA-check transit-related spatial datasets spanning 2008–2020 across heterogeneous urban regions
+          - Build urban transport infrastructure sustainability models for Indian cities
+          - Integrate road network variables into spatial models via cross-join data pipelines
+          - Apply ArcGIS, QGIS, and Google Earth Engine to identify data gaps and validate geographic boundaries
+          - Present research in Korean and English at KAGIS Fall Conference, IAGI International Symposium, and national conferences in India
+
+      - company: Kongju National University
+        position: Research Assistant
+        location: South Korea
+        start_date: 2023
+        end_date: 2024
+        highlights:
+          - Supported faculty-led spatial data projects — cleaning, gap identification, quality review
+          - Used R and Google Earth Engine to process large geographic datasets
+
+    Awards:
+      - title: Global Korea Scholarship (GKS)
+        authors:
+          - "Government of South Korea"
+        date: 2022-07-01
+        awarder: Government of South Korea
+        summary: Full 4-year doctoral funding award.
+
+      - title: Delegate, Korea International Model UN 2024
+        authors:
+          - "Korea International Model UN"
+        date: 2024-01-01
+        awarder: DISEC Committee
+        summary: Selected as a delegate at Korea International Model UN, DISEC committee, Seoul.
+
+      - title: Best Researcher 2021
+        authors:
+          - "Jawaharlal Nehru University"
+        date: 2021-01-01
+        awarder: Jawaharlal Nehru University
+        summary: Awarded during Master's degree studies.
+
+    Publications:
+      - title: "Impact of High-Speed Rail on Urban Regions in South Korea: A Systematic Literature Review"
+        authors:
+          - Keerti Yadav
+        publisher: ""
+        releaseDate: ""
+        url: ""
+        summary: "A systematic review of literature examining how High-Speed Rail has impacted urban regions in South Korea."
+
+      - title: "Climate Change Vulnerability of Traditional Land Use Practices in Zabö Agriculture, India"
+        authors:
+          - Keerti Yadav
+        publisher: "KAGIS Fall Conference & International Symposium of IAGI"
+        releaseDate: 2025-01-01
+        url: ""
+        summary: "Examines climate vulnerability in traditional agricultural land use practices."
+
+      - title: "Exploring Rural Sustainability through AHS (Agricultural Heritage System)"
+        authors:
+          - Keerti Yadav
+        publisher: "National Conference on Sustainable Rural Development & Agriculture Marketing"
+        releaseDate: 2023-10-01
+        url: ""
+        summary: "Explores rural sustainability through the lens of Agricultural Heritage Systems."
+
+    Skills:
+      - name: GIS & Geospatial Analysis
+        level: Advanced
+        icon: fa-solid fa-map-location-dot
+        keywords: "ArcGIS, QGIS, Google Earth Engine, Remote Sensing, Spatial Data Analysis"
+
+      - name: Programming & Modeling
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "R, Python, Deep Learning, Panel Data Management, Data Quality Assurance"
+
+    Languages:
+      - name: English
+        summary: "Native"
+
+      - name: Hindi
+        summary: "Native"
+
+      - name: Korean
+        summary: "Professional working proficiency"
+
+      - name: Punjabi
+        summary: "Fluent speaking"
