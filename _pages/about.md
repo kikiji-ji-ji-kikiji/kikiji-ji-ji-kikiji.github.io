@@ -35,3 +35,4 @@ I communicate this research to academic and policy audiences alike, in both Kore
 Fluent in English, Hindi, and Korean, I bring a genuinely cross-cultural, multilingual lens to research — useful when working across government datasets, international collaborators, and multi-country urban comparisons.
 
 Let's connect on transit data, urban analytics, GIS quality assurance, or spatial research collaborations.
+
