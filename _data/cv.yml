@@ -12,9 +12,9 @@ cv:
     - network: GitHub
       username: your-github-username
 
-  address:
+address:
     street: ""
-    city: ""
+    city: "South Korea"
     region: ""
     postalCode: ""
     countryCode: KR
