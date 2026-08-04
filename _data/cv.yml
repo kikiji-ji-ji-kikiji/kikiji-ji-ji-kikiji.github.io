@@ -3,7 +3,6 @@ cv:
   label: Ph.D. Regional Development
   email: Yadavkeerti1199@gmail.com
   location: South Korea
-  image: ""
   summary: Ph.D. researcher in Urban Geography at Kongju National University, studying the heterogeneous regional effects of High-Speed Rail across South Korea using spatial and geospatial data methods.
 
   social_networks:
@@ -15,8 +14,6 @@ cv:
 
   address:
     city: "South Korea"
-    region: ""
-    postalCode: ""
     countryCode: KR
 
   sections:
