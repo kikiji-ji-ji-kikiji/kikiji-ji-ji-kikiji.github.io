@@ -12,7 +12,7 @@ cv:
     - network: GitHub
       username: your-github-username
 
-address:
+  address:
     street: ""
     city: "South Korea"
     region: ""
