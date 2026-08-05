@@ -1,5 +1,5 @@
 github_users: [kikiji-ji-ji-kikiji]
-
-repo_description_lines_max: 2
-
-github_repos: [kikiji-ji-ji-kikiji/kikiji-ji-ji-kikiji.github.io]
+github_repos:
+  - kikiji-ji-ji-kikiji/Urban-Networks-India-Korea
+  - kikiji-ji-ji-kikiji/china_subsidence_uplift_gee-Nanjing-Guizhou-Jinhua-
+  - kikiji-ji-ji-kikiji/informal-growth-detection
