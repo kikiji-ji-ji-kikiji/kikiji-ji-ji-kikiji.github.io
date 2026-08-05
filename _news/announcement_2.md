@@ -1,11 +1,11 @@
 ---
 layout: post
-title: A long announcement with details
-date: 1999-11-01 
+title: Just born!
+date: 1999-11-01
 inline: false
-related_posts: false
 ---
 
 Just born! Oh lord, this time i landed on earth!
+Why do geographers make terrible comedians? Because their jokes never land in the right place. 🗺️
 ---
 
