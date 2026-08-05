@@ -26,9 +26,9 @@ cv:
         start_date: 2022
         end_date: Present
         score: ""
-        courses: "Global Korea Scholarship (GKS) Awardee — full 4-year doctoral funding"
+        courses: "Global Korea Scholarship Awardee 
         highlights:
-          - "Thesis: Heterogeneous Regional Effects of High-Speed Rail in South Korea — A City-Level Staggered Difference-in-Differences Analysis (2008–2020)"
+          - "Thesis: Heterogeneous Regional Effects of High-Speed Rail in South Korea;A City-Level Staggered Difference-in-Differences Analysis"
 
       - institution: Busan University of Foreign Studies
         location: South Korea
@@ -39,7 +39,7 @@ cv:
 
       - institution: Jawaharlal Nehru University
         location: India
-        area: Korean Studies
+        area: Korean Studies (SLL&CS)
         studyType: M.A.
         start_date: 2019
         end_date: 2021
@@ -48,7 +48,7 @@ cv:
 
       - institution: Jawaharlal Nehru University
         location: India
-        area: Korean Studies
+        area: Korean Studies (SLL&CS)
         studyType: B.A. (Hons.)
         start_date: 2016
         end_date: 2019
@@ -73,9 +73,6 @@ cv:
         location: South Korea
         start_date: 2023
         end_date: 2024
-        highlights:
-          - Supported faculty-led spatial data projects — cleaning, gap identification, quality review
-          - Used R and Google Earth Engine to process large geographic datasets
 
     Awards:
       - title: Global Korea Scholarship (GKS)
@@ -92,12 +89,6 @@ cv:
         awarder: DISEC Committee
         summary: Selected as a delegate at Korea International Model UN, DISEC committee, Seoul.
 
-      - title: Best Researcher 2021
-        authors:
-          - "Jawaharlal Nehru University"
-        date: 2021-01-01
-        awarder: Jawaharlal Nehru University
-        summary: Awarded during Master's degree studies.
 
     Publications:
       - title: "Impact of High-Speed Rail on Urban Regions in South Korea: A Systematic Literature Review"
@@ -145,5 +136,3 @@ cv:
       - name: Korean
         summary: "Professional working proficiency"
 
-      - name: Punjabi
-        summary: "Fluent speaking"
