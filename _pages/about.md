@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Kongju National University</p>
+    <p>Dr. Keerti Yadav</p>
     <p>South Korea</p>
 
 selected_papers: true
@@ -24,14 +24,13 @@ latest_posts:
   enabled: false
 ---
 
-Hi! I'm **Keerti Yadav**, a Geography researcher currently based in South Korea.
+Hi! I'm **Keerti Yadav**, a geography researcher currently based in South Korea.
 
-I hold a PhD in Urban Geography from Kongju National University. My PhD research examines the heterogeneous regional effects of high-speed rail across South Korea, investigating how transport infrastructure reshapes regional development, connectivity, and socio-spatial transformation at the city level using a staggered difference-in-differences approach.
+I hold a PhD in regional development from department of Geography at Kongju National University. My PhD research examines the heterogeneous regional effects of high-speed rail across South Korea, investigating how transport infrastructure reshapes regional development, connectivity, and socio-spatial transformation at the city level using a staggered difference-in-differences approach.
 
 My work is grounded in spatial data science. I build multi-city analytical models in R and ArcGIS, validate transit datasets across heterogeneous urban regions, and use QGIS and Google Earth Engine to identify data gaps and boundary inconsistencies that automated workflows often overlook. I also integrate road network variables into spatial models through cross-join pipelines, explore deep learning techniques to improve predictive spatial modeling, and have developed urban transport infrastructure sustainability models for Indian cities.
 
-Beyond research, I communicate findings to both academic and policy audiences in English and Korean. 
-I'm always interested in connecting with researchers and practitioners working on:
+Beyond research, I'm always interested in connecting with researchers and practitioners working on:
 
 * Transport and regional development
 * Urban analytics and spatial data science
@@ -40,5 +39,7 @@ I'm always interested in connecting with researchers and practitioners working o
 * International and comparative urban research
 
 Feel free to connect if you're interested in discussing transit data, spatial analytics, GIS, or opportunities for research collaboration.
+
+Can communicate in English and Korean and Hindi. 
 
 
