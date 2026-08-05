@@ -1,1 +1,41 @@
+name: Update GitHub repositories list
 
+on:
+  schedule:
+    - cron: "0 6 * * 1" # runs every Monday at 06:00 UTC
+  workflow_dispatch: {} # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch public repos and write repositories.yml
+        env:
+          GH_USERNAME: kikiji-ji-ji-kikiji
+        run: |
+          REPOS=$(curl -s "https://api.github.com/users/${GH_USERNAME}/repos?per_page=100&sort=updated" \
+            | jq -r '[.[] | select(.fork == false) | "\(.full_name)"] | .[]')
+
+          {
+            echo "# list of GitHub usernames whose stats will be displayed"
+            echo "github_users: [${GH_USERNAME}]"
+            echo ""
+            echo "# list of GitHub repositories to feature (auto-updated weekly)"
+            echo "github_repos:"
+            while IFS= read -r repo; do
+              echo "  - ${repo}"
+            done <<< "$REPOS"
+          } > _data/repositories.yml
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _data/repositories.yml
+          git diff --cached --quiet || git commit -m "Auto-update repositories.yml"
+          git push
