@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kikiji-ji-ji-kikiji.github.io/sitemap.xml
+Sitemap: https://yadavkeerti.github.io/sitemap.xml
