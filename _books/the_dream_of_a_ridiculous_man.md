@@ -1,7 +1,8 @@
 ---
 layout: book-review
 title: The Dream of a Ridiculous Man
-cover: assets/img/book_covers/the_dream_of_a_ridiculous_man.jpg
+cover: https://covers.openlibrary.org/b/olid/OL13654227M-L.jpg
+olid: OL13654227M
 author: Fyodor Dostoevsky
 date: 2026-01-01
 ---
