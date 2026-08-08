@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p><a href="mailto:yadavkeerti1199@gmail.com">yadavkeerti1199@gmail.com</a></p>
+    <p><a href="mailto:yadavkeerti1199@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a></p>
     <p>
       <a href="https://scholar.google.com/citations?user=AOFhVggAAAAJ" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a><br>
       <a href="https://linkedin.com/in/yadavkeerti" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i> LinkedIn</a><br>
