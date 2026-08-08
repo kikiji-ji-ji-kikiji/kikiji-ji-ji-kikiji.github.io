@@ -183,7 +183,7 @@ h3 {
 
 /* About page: profile photo overlapping bottom of banner, floating sidebar */
 .profile {
-  margin-top: -110px;
+  margin-top: -35px;
   z-index: 2;
   position: relative;
 }
@@ -198,4 +198,29 @@ h3 {
 .profile .more-info a {
   display: inline-block;
   margin-top: 4px;
+}
+
+/* Shrink profile photo ~17% */
+.profile {
+  max-width: 249px;
+}
+
+/* About page: two-column flex layout so bio text doesn't wrap-jump past a short sidebar */
+.about-flex {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+.about-flex .profile {
+  float: none !important;
+  flex: 0 0 auto;
+}
+.about-flex .clearfix {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+@media (max-width: 768px) {
+  .about-flex {
+    flex-direction: column;
+  }
 }
