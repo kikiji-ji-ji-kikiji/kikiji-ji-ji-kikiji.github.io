@@ -180,3 +180,22 @@ h3 {
 .header-bar h1 {
   color: #4a2c17 !important;
 }
+
+/* About page: profile photo overlapping bottom of banner, floating sidebar */
+.profile {
+  margin-top: -110px;
+  z-index: 2;
+  position: relative;
+}
+.profile img {
+  border: 5px solid #ffffff;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+}
+.profile .more-info {
+  margin-top: 12px;
+  line-height: 1.6;
+}
+.profile .more-info a {
+  display: inline-block;
+  margin-top: 4px;
+}
