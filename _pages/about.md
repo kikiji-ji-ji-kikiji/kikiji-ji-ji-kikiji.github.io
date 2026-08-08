@@ -20,7 +20,7 @@ profile:
       <a href="https://www.researchgate.net/profile/Keerti-Yadav-2" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-researchgate"></i> ResearchGate</a>
     </p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
