@@ -183,7 +183,7 @@ h3 {
 
 /* About page: profile photo overlapping bottom of banner, floating sidebar */
 .profile {
-  margin-top: -35px;
+  margin-top: 0px;
   z-index: 2;
   position: relative;
 }
