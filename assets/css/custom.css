@@ -162,7 +162,7 @@ h3 {
   margin-bottom: 24px;
   background-image: linear-gradient(rgba(10, 12, 10, 0.55), rgba(10, 12, 10, 0.65)), url("/assets/img/reading-by-the-sea.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: center bottom;
 }
 
 .fortress-header .post-title,
