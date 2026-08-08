@@ -12,7 +12,6 @@ profile:
     <p><strong>Keerti Yadav</strong></p>
     <p>PhD, Regional Development</p>
     <p><a href="mailto:yadavkeerti1199@gmail.com">yadavkeerti1199@gmail.com</a></p>
-    <p>Department of Geography<br>Kongju National University</p>
     <p>
       <a href="https://scholar.google.com/citations?user=AOFhVggAAAAJ" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a><br>
       <a href="https://linkedin.com/in/yadavkeerti" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i> LinkedIn</a><br>
