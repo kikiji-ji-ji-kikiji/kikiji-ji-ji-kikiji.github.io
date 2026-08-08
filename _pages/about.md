@@ -5,12 +5,18 @@ permalink: /
 subtitle: PhD in Regional Development, Kongju National University, South Korea
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Dr. Keerti Yadav</p>
-    <p>South Korea</p>
+    <p><strong>Keerti Yadav</strong></p>
+    <p>PhD, Regional Development</p>
+    <p><a href="mailto:yadavkeerti1199@gmail.com">yadavkeerti1199@gmail.com</a></p>
+    <p>Department of Geography<br>Kongju National University</p>
+    <p>
+      <a href="https://scholar.google.com/citations?user=AOFhVggAAAAJ" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a><br>
+      <a href="https://linkedin.com/in/yadavkeerti" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+    </p>
 
 selected_papers: true
 social: true
