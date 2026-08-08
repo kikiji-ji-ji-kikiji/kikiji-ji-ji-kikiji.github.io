@@ -228,3 +228,8 @@ h3 {
     flex-direction: column;
   }
 }
+
+/* Justify bio paragraph text on about page for even left/right edges */
+.about-flex .clearfix p {
+  text-align: justify;
+}
