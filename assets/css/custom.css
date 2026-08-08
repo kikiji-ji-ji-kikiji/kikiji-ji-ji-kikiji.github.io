@@ -1,0 +1,32 @@
+body {
+  background-color: #fafbfc;
+  background-image:
+    radial-gradient(circle at 1px 1px, rgba(0,118,223,0.06) 1px, transparent 0),
+    linear-gradient(135deg, rgba(0,118,223,0.05) 0%, rgba(38,152,186,0.04) 35%, rgba(181,9,172,0.03) 70%, rgba(255,255,255,0) 100%);
+  background-size: 22px 22px, cover;
+  background-attachment: fixed;
+}
+html[data-theme="dark"] body, body.dark {
+  background-color: #1c1c1d;
+  background-image:
+    radial-gradient(circle at 1px 1px, rgba(38,152,186,0.08) 1px, transparent 0),
+    linear-gradient(135deg, rgba(0,118,223,0.08) 0%, rgba(181,9,172,0.05) 60%, rgba(0,0,0,0) 100%);
+  background-size: 22px 22px, cover;
+  background-attachment: fixed;
+}
+h2, .cv-section-title, .profile-section h2, section > h2 {
+  position: relative;
+  padding: 0.6em 1em;
+  border-radius: 10px;
+  background: linear-gradient(120deg, rgba(0,118,223,0.10), rgba(38,152,186,0.10) 40%, rgba(181,9,172,0.08) 100%);
+  overflow: hidden;
+}
+html[data-theme="dark"] h2, body.dark h2, html[data-theme="dark"] .cv-section-title, body.dark .cv-section-title {
+  background: linear-gradient(120deg, rgba(0,118,223,0.18), rgba(38,152,186,0.16) 40%, rgba(181,9,172,0.14) 100%);
+  color: #ffffff;
+}
+h3 {
+  padding: 0.3em 0.7em;
+  border-radius: 8px;
+  background: linear-gradient(120deg, rgba(0,118,223,0.06), rgba(38,152,186,0.06));
+}
