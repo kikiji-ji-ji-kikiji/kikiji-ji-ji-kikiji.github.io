@@ -233,3 +233,8 @@ h3 {
 .about-flex .clearfix p {
   text-align: justify;
 }
+
+/* Flex ordering for about page profile column (left vs right) */
+.about-flex .clearfix:has(+ .profile.float-left) { order: 2; }
+.about-flex .profile.float-right { order: 2; }
+.about-flex .profile.float-right ~ .clearfix { order: 1; }
