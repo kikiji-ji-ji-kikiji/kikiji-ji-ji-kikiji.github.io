@@ -239,25 +239,6 @@ h3 {
 .about-flex .profile.float-right { order: 2; }
 .about-flex .profile.float-right ~ .clearfix { order: 1; }
 
-/* CV aesthetic pass: less pink/purple, more spacing */
-
-/* Date badges: shift from magenta to a calmer slate blue */
-.cv .badge {
-  --global-theme-color: rgba(51, 91, 138, 0.6) !important;
-  background-color: rgba(51, 91, 138, 0.6) !important;
-}
-
-/* Section headers (Experience, Education, Awards, etc.): cooler blue/teal gradient instead of pink-heavy */
-
-section > h2 {
-  background: linear-gradient(120deg, rgba(0, 118, 223, 0.12), rgba(38, 152, 186, 0.12) 60%, rgba(0, 118, 223, 0.08) 100%) !important;
-}
-
-/* Drop the magenta variant from the rotating card background themes */
-.cv .card:nth-of-type(6n + 3) {
-  background: linear-gradient(160deg, rgba(0, 171, 55, 0.05), rgba(255, 255, 255, 0) 60%) !important;
-}
-
 /* More breathing room between CV entries and inside bullet lists */
 .cv .card {
   margin-bottom: 1.4rem;
