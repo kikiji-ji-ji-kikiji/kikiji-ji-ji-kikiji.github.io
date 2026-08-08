@@ -16,7 +16,7 @@ jobs:
 
       - name: Fetch public repos and write repositories.yml
         env:
-          GH_USERNAME: kikiji-ji-ji-kikiji
+          GH_USERNAME: yadavkeerti
         run: |
           REPOS=$(curl -s "https://api.github.com/users/${GH_USERNAME}/repos?per_page=100&sort=updated" \
             | jq -r '[.[] | select(.fork == false) | "\(.full_name)"] | .[]')

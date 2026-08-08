@@ -10,4 +10,4 @@ A comparative geospatial analysis of street network structure and OpenStreetMap 
 
 The project explores how urban form and amenity accessibility differ across rapidly urbanizing Indian cities and mature, transit-oriented Korean cities, using consistent, reproducible network science metrics for direct cross-country comparison.
 
-<a href="https://github.com/kikiji-ji-ji-kikiji/Urban-Networks-India-Korea" target="_blank">View the repository on GitHub</a>
+<a href="https://github.com/yadavkeerti/Urban-Networks-India-Korea" target="_blank">View the repository on GitHub</a>
