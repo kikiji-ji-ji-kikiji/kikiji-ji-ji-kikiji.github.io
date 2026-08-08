@@ -5,7 +5,7 @@ permalink: /
 subtitle: PhD in Regional Development, Kongju National University, South Korea
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
@@ -21,7 +21,7 @@ selected_papers: false
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
