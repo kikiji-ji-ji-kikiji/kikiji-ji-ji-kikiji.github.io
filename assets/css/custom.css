@@ -131,3 +131,17 @@ h3 {
 .fortress-header .desc {
   color: #f5f5f0 !important;
 }
+
+/* Bookshelf page: light text for the title and "Recent Reads" heading over the photo background */
+.bookshelf-title {
+  color: #f5f5f0 !important;
+}
+
+#recent-reads {
+  color: #f5f5f0 !important;
+}
+
+/* Blog page title: dark brown */
+.header-bar h1 {
+  color: #4a2c17 !important;
+}
