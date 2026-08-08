@@ -160,7 +160,7 @@ h3 {
   overflow: hidden;
   padding: 48px 32px;
   margin-bottom: 24px;
-  background-image: linear-gradient(rgba(10, 12, 10, 0.55), rgba(10, 12, 10, 0.65)), url("/assets/img/gongsanseong-about.jpg");
+  background-image: linear-gradient(rgba(10, 12, 10, 0.55), rgba(10, 12, 10, 0.65)), url("/assets/img/reading-by-the-sea.jpg");
   background-size: cover;
   background-position: center;
 }
