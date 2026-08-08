@@ -32,14 +32,12 @@ My work is grounded in spatial data science. I build multi-city analytical model
 
 Beyond research, I'm always interested in connecting with researchers and practitioners working on:
 
-* Transport and regional development
-* Urban analytics and spatial data science
-* GIS and spatial data quality assurance
-* Open government data and geospatial analytics
-* International and comparative urban research
+- Transport and regional development
+- Urban analytics and spatial data science
+- GIS and spatial data quality assurance
+- Open government data and geospatial analytics
+- International and comparative urban research
 
 Feel free to connect if you're interested in discussing transit data, spatial analytics, GIS, or opportunities for research collaboration.
 
-Can communicate in English and Korean and Hindi. 
-
-
+Can communicate in English and Korean and Hindi.

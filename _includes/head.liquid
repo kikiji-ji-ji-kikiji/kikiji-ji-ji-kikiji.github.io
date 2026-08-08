@@ -207,29 +207,29 @@
   {% include plugins/al_marimo_styles.liquid %}
 {% endif %}
 
-
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
 
 {% if page.url contains '/books' %}
-<style>
-  body {
-    background-image: linear-gradient(rgba(20,25,30,0.35), rgba(20,25,30,0.5)), url('/assets/img/full-gallery-wall.png');
-    background-size: cover;
-    background-position: center top;
-    background-attachment: fixed;
-  }
-  .card, .cv .card {
-    background-color: rgba(255,255,255,0.9) !important;
-  }
-</style>
+  <style>
+    body {
+      background-image: linear-gradient(rgba(20, 25, 30, 0.35), rgba(20, 25, 30, 0.5)), url('/assets/img/full-gallery-wall.png');
+      background-size: cover;
+      background-position: center top;
+      background-attachment: fixed;
+    }
+    .card,
+    .cv .card {
+      background-color: rgba(255, 255, 255, 0.9) !important;
+    }
+  </style>
 {% endif %}
 {% if page.url contains '/blog' or page.url contains '/page/' %}
-<style>
-  body {
-    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.5)), url('/assets/img/blog-rider.png');
-    background-size: cover;
-    background-position: center top;
-    background-attachment: fixed;
-  }
-</style>
+  <style>
+    body {
+      background-image: linear-gradient(rgba(255, 255, 255, 0.35), rgba(255, 255, 255, 0.5)), url('/assets/img/blog-rider.png');
+      background-size: cover;
+      background-position: center top;
+      background-attachment: fixed;
+    }
+  </style>
 {% endif %}
