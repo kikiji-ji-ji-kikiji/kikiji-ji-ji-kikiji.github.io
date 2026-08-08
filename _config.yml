@@ -135,7 +135,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Keerti's Fieldnotes & Reflections # blog_name will be displayed in your blog page
-blog_description: Notes from HSR research, spatial data, and everyday life in South Korea
+blog_description: Small notes on reading, learning, and making sense of the world, one place at a time.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
